@@ -1,0 +1,15 @@
+{
+  "name": "hermes-kanban",
+  "label": "Kanban",
+  "description": "Live Kanban board showing the status of all running and recent agent sessions",
+  "icon": "Columns",
+  "version": "1.0.0",
+  "author": "jatingodnani",
+  "tab": {
+    "path": "/hermes-kanban",
+    "position": "after:sessions"
+  },
+  "entry": "dist/index.js",
+  "css": "dist/style.css",
+  "api": "plugin_api.py"
+}
