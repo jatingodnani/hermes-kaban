@@ -2,7 +2,7 @@
 
 A live **Kanban board** dashboard plugin for [Hermes Agent](https://github.com/NousResearch/hermes-agent) — shows the real-time status of all agent sessions in a clean three-column board.
 
-![hermes-kanban screenshot](https://raw.githubusercontent.com/jatingodnani/hermes-kanban/main/screenshot.png)
+![hermes-kanban screenshot](./screenshot.png)
 
 ---
 
